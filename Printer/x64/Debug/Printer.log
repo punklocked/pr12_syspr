@@ -1,0 +1,7 @@
+﻿  Printer.cpp
+C:\Users\st310-10\Desktop\pr12_syspr-main\Printer\Printer.cpp(9,20): warning C4244: инициализация: преобразование "ULONGLONG" в "volatile long", возможна потеря данных
+C:\Users\st310-10\Desktop\pr12_syspr-main\Printer\Printer.cpp(13,23): warning C4244: =: преобразование "ULONGLONG" в "volatile long", возможна потеря данных
+C:\Users\st310-10\Desktop\pr12_syspr-main\Printer\Printer.cpp(44,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\st310-10\Desktop\pr12_syspr-main\Printer\Printer.cpp(90,26): warning C4244: =: преобразование "ULONGLONG" в "volatile long", возможна потеря данных
+  LINK : не найден или не выполнена сборка C:\Users\st310-10\Desktop\pr12_syspr-main\x64\Debug\Printer.exe при последней инкрементной компоновке; выполняется полная компоновка
+  Printer.vcxproj -> C:\Users\st310-10\Desktop\pr12_syspr-main\x64\Debug\Printer.exe

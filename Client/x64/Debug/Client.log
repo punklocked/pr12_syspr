@@ -1,0 +1,4 @@
+﻿  Client.cpp
+C:\Users\st310-10\Desktop\pr12_syspr-main\Client\Client.cpp(20,11): warning C4101: idThread: неиспользованная локальная переменная
+  LINK : не найден или не выполнена сборка C:\Users\st310-10\Desktop\pr12_syspr-main\x64\Debug\Client.exe при последней инкрементной компоновке; выполняется полная компоновка
+  Client.vcxproj -> C:\Users\st310-10\Desktop\pr12_syspr-main\x64\Debug\Client.exe
